@@ -43,17 +43,18 @@ This is a fun and simple computer vision project using OpenCV that captures real
 1. First, I saved the Python file (`Live_Sketch_Using_Webcam.ipynb`) to my Desktop.
 
 2. Then, I opened the Anaconda PowerShell Prompt and typed the following:
-   - `cd Desktop`
+   
+        cd Desktop
   
-   - `jupyter notebook`
+        jupyter notebook
 
 
-3. This opened the Jupyter Notebook interface in my browser.
+4. This opened the Jupyter Notebook interface in my browser.
 
-4. I selected the file named `Live_Sketch_Using_Webcam.ipynb` from the list.
+5. I selected the file named `Live_Sketch_Using_Webcam.ipynb` from the list.
 
-5. I ran the code cell-by-cell using Shift + Enter.
+6. I ran the code cell-by-cell using Shift + Enter.
 
-6. The webcam window appeared, and it started showing the sketch effect in real-time.
+7. The webcam window appeared, and it started showing the sketch effect in real-time.
 
-7. To exit, I pressed the Enter key in the webcam window.
+8. To exit, I pressed the Enter key in the webcam window.
